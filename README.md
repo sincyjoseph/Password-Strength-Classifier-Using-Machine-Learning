@@ -1,7 +1,7 @@
 
 # Password strength classifier
 
-
+Dataset: https://www.kaggle.com/bhavikbb/password-strength-classifier-dataset
 
 ## Run Locally
 
