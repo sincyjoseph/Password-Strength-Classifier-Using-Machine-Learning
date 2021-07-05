@@ -29,8 +29,6 @@ Start the server
   uvicorn app:app --reload
 ```
 
-## Demo
 
-https://youtu.be/0k4oy1_mfEo
 
   
